@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace BubbleShorttD
 {
+    class BubbleShort
+    {
+        public void Display()
+    }
     internal class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
