@@ -8,7 +8,7 @@ namespace BubbleShorttD
 {
     class BubbleShort
     {
-        public void Display()
+        
     }
     internal class Program
     {
